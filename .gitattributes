@@ -1,3 +1,4 @@
 .data filter=lfs diff=lfs merge=lfs -text
 supertux2.data filter=lfs diff=lfs merge=lfs -text
 *.data filter=lfs diff=lfs merge=lfs -text
+crystalseeker.html filter=lfs diff=lfs merge=lfs -text
